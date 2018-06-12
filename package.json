@@ -1,0 +1,17 @@
+{
+  "name": "sscce-claudia-sam-greedy-proxy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./pip-install.sh",
+    "start": "./start.sh",
+    "test": "./test.sh"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "claudia-api-builder": "^4.0.2",
+    "eslint": "^4.19.1"
+  }
+}
