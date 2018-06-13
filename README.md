@@ -3,6 +3,7 @@
 Run `npm start &` before `npm t`
 
 - [aws-sam-cli/issues/434](https://github.com/awslabs/aws-sam-cli/issues/434)
+- [claudia-api-builder/pull/51](https://github.com/claudiajs/claudia-api-builder/pull/51)
 
 ## Actual Behaviour
 
